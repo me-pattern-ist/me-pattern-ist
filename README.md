@@ -5,7 +5,7 @@ Hands-on developer, architect, coach, and mentor. Love to code and learn new tec
 
 - 🔭 I’m currently working on an idea of mine to build an app that aims Organizations to find right candidate for right role. *Stay tuned . . .*
 - 🌱 I’m currently learning Blockchin using Ethereum and Solidity Contract. Machine Learning and Augmented reality are next intresting areas to look into.
-- 👯 I’m looking to collaborate as a back end engineer to any non-profit organization, organizations working for women in tech.
+- 👯 I’m looking to collaborate as a back end engineer to any non-profit organization for a good cause of humanity.
 - 🤔 I’m looking for help to reach out to like minded people who believe in bringing change to world using tech.
 
 
